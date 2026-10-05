@@ -1,0 +1,6 @@
+{
+  "name": "Designer Homes",
+  "description": "Designer Homes Pakistan - Premier Real Estate & Construction app for plots, luxury houses, architectural design, ads, and direct WhatsApp updates to 03364251212.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
